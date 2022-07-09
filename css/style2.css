@@ -23,3 +23,9 @@ div+p {
 [href^="https"]+ul {
    color: blue;
 }
+p~ol {
+   color: darkorchid;
+}
+ol+div {
+   color: darkturquoise;
+}
