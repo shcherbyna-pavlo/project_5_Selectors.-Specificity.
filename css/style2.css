@@ -1,0 +1,25 @@
+body {
+   line-height: 20px;
+   font-size: larger;
+}
+h1 {
+   color: aquamarine;
+}
+.red {
+   color: red;
+}
+#green {
+   color: green;
+}
+.yellow,.yellow2 {
+   color: yellowgreen;
+}
+ul>li>ol {
+   color: gray;
+}
+div+p {
+   color: coral;
+}
+[href^="https"]+ul {
+   color: blue;
+}

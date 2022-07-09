@@ -1,0 +1,12 @@
+* {
+   font-size: 22px;
+}
+span {
+   font-size:25px;
+   text-decoration: underline;
+   font-weight: bold;
+   color: red;
+}
+ul {
+   font-style: oblique;
+}
