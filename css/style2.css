@@ -29,3 +29,6 @@ p~ol {
 ol+div {
    color: darkturquoise;
 }
+div strong {
+   color: greenyellow;
+}
